@@ -8,19 +8,16 @@
 		"terminal.integrated.cwd": "${workspaceFolder}",
 		"terminal.integrated.defaultProfile.osx": "zsh",
 		"terminal.integrated.env.osx": {
-			"CONDA_DEFAULT_ENV": "base",
+			"CONDA_DEFAULT_ENV": "stylegan",
 			"_CE_M": "",
 			"_CE_CONDA": "",
-			"CONDA_PYTHON_EXE": "/opt/anaconda3/bin/python",
+			"CONDA_PYTHON_EXE": "/opt/anaconda3/envs/stylegan/bin/python",
 			"CONDA_SHLVL": "1"
 		},
-		"python.defaultInterpreterPath": "/opt/anaconda3/bin/python",
+		"python.defaultInterpreterPath": "/opt/anaconda3/envs/stylegan/bin/python",
 		"python.terminal.activateEnvironment": true,
 		"python.terminal.activateEnvInCurrentTerminal": true,
-		"terminal.integrated.inheritEnv": true,
 		"editor.formatOnSave": true,
-		"python.condaPath": "/opt/anaconda3/condabin/conda",
-		"python.pythonPath": "/opt/anaconda3/bin/python",
 		"notebook.formatOnSave.enabled": true,
 		"notebook.codeActionsOnSave": {
 			"notebook.source.fixAll": "explicit",
@@ -52,6 +49,6 @@
 			"/opt/anaconda3/lib/python3.12/site-packages/"
 		],
 		"notebook.output.fontFamily": "DejaVu Sans Mono for Powerline",
-		"fastkaggle.executablePath": "/opt/anaconda3/bin/python",
+		"fastkaggle.executablePath": "/opt/anaconda3/envs/stylegan/bin/python",
 	}
 }
