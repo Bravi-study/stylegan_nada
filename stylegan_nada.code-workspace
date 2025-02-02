@@ -44,6 +44,8 @@
 		},
 		"python.analysis.extraPaths": [
 			"${workspaceFolder}",
+			"${workspaceFolder}/stylegan",
+			"${workspaceFolder}/stylegan/torch_utils",
 			"/opt/anaconda3/bin/",
 			"/opt/anaconda3/pkgs/",
 			"/opt/anaconda3/lib/python3.12/site-packages/"
