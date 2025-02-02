@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.cwd": "${workspaceFolder}",
+		"terminal.integrated.defaultProfile.osx": "zsh",
+		"terminal.integrated.env.osx": {
+			"CONDA_DEFAULT_ENV": "stylegan",
+			"_CE_M": "",
+			"_CE_CONDA": "",
+			"CONDA_PYTHON_EXE": "/opt/anaconda3/envs/stylegan/bin/python",
+			"CONDA_SHLVL": "1"
+		},
+		"python.defaultInterpreterPath": "/opt/anaconda3/envs/stylegan/bin/python",
+		"python.terminal.activateEnvironment": true,
+		"python.terminal.activateEnvInCurrentTerminal": true,
+		"editor.formatOnSave": true,
+		"notebook.formatOnSave.enabled": true,
+		"notebook.codeActionsOnSave": {
+			"notebook.source.fixAll": "explicit",
+			"notebook.source.organizeImports": "explicit"
+		},
+		"[python]": {
+			"editor.defaultFormatter": "charliermarsh.ruff"
+		},
+		"ruff.organizeImports": true,
+		"ruff.importStrategy": "fromEnvironment",
+		"ruff.lint.enable": false,
+		"black-formatter.args": [
+			"--line-length",
+			"100"
+		],
+		// "editor.formatOnSave": true,
+		"editor.formatOnSaveMode": "file",
+		"editor.rulers": [
+			100
+		],
+		"python.analysis.typeEvaluation.deprecateTypingAliases": false,
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportDeprecated": false
+		},
+		"python.analysis.extraPaths": [
+			"${workspaceFolder}",
+			"${workspaceFolder}/stylegan",
+			"${workspaceFolder}/stylegan/torch_utils",
+			"/opt/anaconda3/bin/",
+			"/opt/anaconda3/pkgs/",
+			"/opt/anaconda3/lib/python3.12/site-packages/"
+		],
+		"notebook.output.fontFamily": "DejaVu Sans Mono for Powerline",
+		"fastkaggle.executablePath": "/opt/anaconda3/envs/stylegan/bin/python",
+	}
+}
