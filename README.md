@@ -1,1 +1,0 @@
-# stylegan_nada
