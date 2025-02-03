@@ -1,24 +1,31 @@
 # Работа по StyleCLIP и StyleGAN-NADA
 
-В репозитории представлены обзор научных работ по [StyleCLIP](https://arxiv.org/abs/2103.17249) и [StyleGAN-NADA](https://arxiv.org/abs/2108.00946),  
+В репозитории представлены [обзор](https://github.com/Bravi-study/stylegan_nada/blob/main/review.ipynb) научных работ по [StyleCLIP](https://arxiv.org/abs/2103.17249) и [StyleGAN-NADA](https://arxiv.org/abs/2108.00946),  
 а также реализация последней в [StyleGAN_NADA.ipynb](https://github.com/Bravi-study/stylegan_nada/blob/main/StyleGAN_NADA.ipynb)
 
-Методы, в них представленные, позволяют направлять обучения StyleGAN в сторону,  
-задаваемую текстом. 
+Представленные в них методы позволяют направлять обучение StyleGAN в сторону, задаваемую текстом. 
 
 ## Генерация
 Пример изображений, созданных в стиле кубизма:
-https://github.com/Bravi-study/stylegan_nada/blob/main/im.jpg
+
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/im.png" height="500"/>
 
 ## Редактирование
 Исходное изображение:
-https://github.com/Bravi-study/stylegan_nada/blob/main/input_img.jpg
+
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/input_img.jpg" width="500" height="500"/>
+
 
 Редактированное изображение, кубизм:
-https://github.com/Bravi-study/stylegan_nada/blob/main/cubism.jpg
+
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/cubism.png" width="500" height="500"/>
+
 
 Добавление бороды и усов:
-https://github.com/Bravi-study/stylegan_nada/blob/main/beard.jpg
+
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/beard.png" width="500" height="500"/>
+
 
 Портрет:
-https://github.com/Bravi-study/stylegan_nada/blob/main/painting.jpg
+
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/painting.png" width="500" height="500"/>
