@@ -8,7 +8,7 @@
 ## Генерация
 Пример изображений, созданных в стиле кубизма:
 
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/im.png" height="500"/>
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/im.png" height="400"/>
 
 ## Редактирование
 Исходное изображение:
