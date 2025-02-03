@@ -1,6 +1,6 @@
 # Работа по StyleCLIP и StyleGAN-NADA
 
-В репозитории представлены [обзор](https://github.com/Bravi-study/stylegan_nada/blob/main/review.ipynb) научных работ по [StyleCLIP](https://arxiv.org/abs/2103.17249) и [StyleGAN-NADA](https://arxiv.org/abs/2108.00946),  
+В репозитории представлен [обзор](https://github.com/Bravi-study/stylegan_nada/blob/main/review.ipynb) научных работ по [StyleCLIP](https://arxiv.org/abs/2103.17249) и [StyleGAN-NADA](https://arxiv.org/abs/2108.00946),  
 а также реализация последней в [StyleGAN_NADA.ipynb](https://github.com/Bravi-study/stylegan_nada/blob/main/StyleGAN_NADA.ipynb)
 
 Представленные в них методы позволяют направлять обучение StyleGAN в сторону, задаваемую текстом. 
