@@ -8,24 +8,24 @@
 ## Генерация
 Пример изображений, созданных в стиле кубизма:
 
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/im.png" height="400"/>
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/im.png" height="400"/>
 
 ## Редактирование
 Исходное изображение:
 
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/input_img.jpg" width="500" height="500"/>
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/input_img.jpg" width="500" height="500"/>
 
 
 Редактированное изображение, кубизм:
 
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/cubism.png" width="500" height="500"/>
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/cubism.png" width="500" height="500"/>
 
 
 Добавление бороды и усов:
 
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/beard.png" width="500" height="500"/>
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/beard.png" width="500" height="500"/>
 
 
 Портрет:
 
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/painting.png" width="500" height="500"/>
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/painting.png" width="500" height="500"/>
