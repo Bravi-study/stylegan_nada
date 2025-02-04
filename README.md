@@ -13,19 +13,19 @@
 - Аниме:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/anime_generated.png" height="400"/>
 
-- Солнцезащитные очки, мода эпохи Папы Бенедикта XIII:
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/sunglasses_generated.png" height="400"/>
-
 ### До и После стилизации
 
-- Аниме:
-<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/anime_comparison.png" height="400"/>
+- Солнцезащитные очки, мода эпохи Папы Бенедикта XIII:
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/sunglasses_generated.png" height="400"/>
 
 - Импрессионизм:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/impressionism_comparison.png" height="400"/>
 
 - Портрет масляными красками:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/oil_comparison.png" height="400"/>
+
+- Аниме:
+<img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/anime_comparison.png" height="400"/>
 
 ## Редактирование
 
