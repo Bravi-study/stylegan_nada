@@ -7,13 +7,13 @@
 
 ## Генерация
 
-Пример изображений, созданных в стиле кубизма:
+- Пример изображений, созданных в стиле кубизма:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/cubism_generated.png" height="400"/>
 
-Аниме:
+- Аниме:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/anime_generated.png" height="400"/>
 
-Солнцезащитные очки, мода этохи Папы Бенедикта XIII:
+- Солнцезащитные очки, мода эпохи Папы Бенедикта XIII:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/sunglasses_generated.png" height="400"/>
 
 ### До и После стилизации
@@ -29,29 +29,29 @@
 
 ## Редактирование
 
-Исходное изображение:
+- Исходное изображение:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/input_img.jpg" width="300" height="300"/>
 
-Редактированное изображение, кубизм:
+- Редактированное изображение, кубизм:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/cubism.png" width="300" height="300"/>
 
-Добавление бороды и усов:
+- Добавление бороды и усов:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/beard.png" width="300" height="300"/>
 
-Портрет:
+- Портрет:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/painting.png" width="300" height="300"/>
 
-Аниме:
+- Аниме:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/anime.png" width="300" height="300"/>
 
-Импрессионизм:
+- Импрессионизм:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/impressionism.png" width="300" height="300"/>
 
-Масляные краски:
+- Масляные краски:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/oil.png" width="300" height="300"/>
 
-В стиле Рембрандта:
+- В стиле Рембрандта:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/rembrandt.png" width="300" height="300"/>
 
-И достопочтенный образ в очках:
+- И достопочтенный образ в очках:
 <img src="https://github.com/Bravi-study/stylegan_nada/blob/main/images/sunglasses.png" width="300" height="300"/>
