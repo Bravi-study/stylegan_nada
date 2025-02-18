@@ -5,7 +5,8 @@
 
 Предложенные методы позволяют направлять обучение StyleGAN в сторону, задаваемую текстом. 
 
-Веса модели, полученные в работе и не только, доступны по ссылкам:
+Чтобы запустить раздел **Редактирование** в конце дневника, в директорию `/workspace/` нужно\
+поместить предобученные модели, доступные по ссылкам:
 - Добавление очков (MetFaces): [painting_sunglasses_trained_generator.pt](https://www.dropbox.com/scl/fi/f27ay2kzleyxsg02xbo3g/painting_sunglasses_trained_generator.pt?rlkey=0e6s16xsde9ubfplys3fuc66x&dl=1)
 - Аниме: [photo_anime_trained_generator.pt](https://www.dropbox.com/scl/fi/aw22wdwe402upob0teo54/photo_anime_trained_generator.pt?rlkey=zzg11fh6s6rlyk9hn1tmoykoi&dl=1)
 - Борода и усы: [photo_beard_and_mustache_trained_generator.pt](https://www.dropbox.com/scl/fi/fvw8behwldox64hwlx3tv/photo_beard_and_mustache_trained_generator.pt?rlkey=fy44023kicu9u17av0zbpyzf4&dl=1)
@@ -17,9 +18,10 @@
 - Рембрандт: [photo_rembrandt_trained_generator.pt](https://www.dropbox.com/scl/fi/cidiv1brgzqstfzt2y5e8/photo_rembrandt_trained_generator.pt?rlkey=mgv2ft3ks0jne03hnxh6copto&dl=1)
 - Шрек: [photo_shrek_trained_generator.pt](https://www.dropbox.com/scl/fi/06wjezmnfjlqfabgg6vg6/photo_shrek_trained_generator.pt?rlkey=uw8t9999wg2gq1mbq44hmliuk&dl=1)
 
-Использование:
+Загрузить их отдельно можно так:
 ```
-checkpoint = torch.load(checkpoint_path, map_location=device, weights_only=False)
+CHECKPOINT_PATH = "/workspace/photo_cubism_trained_generator.pt"
+checkpoint = torch.load(CHECKPOINT_PATH, map_location=device, weights_only=False)
 stylegan_generator.load_state_dict(checkpoint["generator_state_dict"])
 ```
 
